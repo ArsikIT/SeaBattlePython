@@ -43,8 +43,4 @@ This is a graphical implementation of the classic *Battleship* game using Python
 - Python 3.x
 - Tkinter library (comes pre-installed with Python)
 
-## Installation
 
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/battleship-game.git
