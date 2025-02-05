@@ -1,5 +1,7 @@
 # Sea Battle Game
 
+Author: Arslan Zheksenbaev
+
 This is a graphical implementation of the classic *Battleship* game using Python's Tkinter library. The game allows two players to battle against each other by placing ships on a grid and guessing the positions of the opponent's ships. The game also supports playing against the computer, where the computer will make random guesses.
 
 ## Features
